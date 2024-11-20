@@ -1,3 +1,0 @@
-C:/Users/OmarM/Documents/GitHub/CMake/Help/guide/tutorial/build/CMakeFiles/Tutorial.dir
-C:/Users/OmarM/Documents/GitHub/CMake/Help/guide/tutorial/build/CMakeFiles/edit_cache.dir
-C:/Users/OmarM/Documents/GitHub/CMake/Help/guide/tutorial/build/CMakeFiles/rebuild_cache.dir
