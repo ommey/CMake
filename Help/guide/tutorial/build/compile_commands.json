@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/OmarM/Documents/GitHub/CMake/Help/guide/tutorial/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -o CMakeFiles\\Tutorial.dir\\tutorial.cxx.obj -c C:\\Users\\OmarM\\Documents\\GitHub\\CMake\\Help\\guide\\tutorial\\Step1\\tutorial.cxx",
+  "file": "C:\\Users\\OmarM\\Documents\\GitHub\\CMake\\Help\\guide\\tutorial\\Step1\\tutorial.cxx",
+  "output": "CMakeFiles\\Tutorial.dir\\tutorial.cxx.obj"
+}
+]
